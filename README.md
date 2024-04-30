@@ -1,7 +1,7 @@
 # web-app
 web app of new souq.com
 
-I am Full Stack Developer
+BY :
 
 •	Back End : Laravel / PHP / PHP MyAdmin /Laragon / SQL
 
